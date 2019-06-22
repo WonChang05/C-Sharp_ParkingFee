@@ -1,0 +1,7 @@
+D:\Users\Won\Desktop\作品彙整\parkingFee\parkingFee\bin\Debug\parkingFee.exe.config
+D:\Users\Won\Desktop\作品彙整\parkingFee\parkingFee\bin\Debug\parkingFee.exe
+D:\Users\Won\Desktop\作品彙整\parkingFee\parkingFee\bin\Debug\parkingFee.pdb
+D:\Users\Won\Desktop\作品彙整\parkingFee\parkingFee\obj\Debug\parkingFee.csprojAssemblyReference.cache
+D:\Users\Won\Desktop\作品彙整\parkingFee\parkingFee\obj\Debug\parkingFee.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\parkingFee\parkingFee\obj\Debug\parkingFee.exe
+D:\Users\Won\Desktop\作品彙整\parkingFee\parkingFee\obj\Debug\parkingFee.pdb
